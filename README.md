@@ -1,3 +1,4 @@
-# Romain_di_Stasi.github.io
+# Website — Dr. Romain di Stasi
 
-This repository contains all the source code used to build my academic website.
+This repository contains the source code for my academic website.
+The website presents my profile, research interests, academic background, publications, and grants.
